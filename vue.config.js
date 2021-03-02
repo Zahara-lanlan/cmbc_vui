@@ -61,8 +61,8 @@ const buildConfig = {
     css: {
         sourceMap: true,
         extract: {
-            // filename: 'style/[name].css'
-            filename: '[name]/[name].css'
+            filename: 'style/[name].css'
+            // filename: '[name]/css/[name].css'
         }
     },
     configureWebpack: {

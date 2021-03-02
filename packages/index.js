@@ -1,5 +1,5 @@
-import XButton from './button'
-import XToast from './toast'
+import XButton from './XButton'
+import XToast from './XToast'
 // 组件列表
 const components = [
   XButton,

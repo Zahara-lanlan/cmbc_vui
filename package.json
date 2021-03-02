@@ -1,6 +1,6 @@
 {
   "name": "cmbc_vui2",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": false,
   "main": "lib/index/index.js",
   "scripts": {
