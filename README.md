@@ -1,6 +1,6 @@
 # cmbc_vui
 
-## Project setup
+## 初始化项目
 ```
 npm install
 ```
